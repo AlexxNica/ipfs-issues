@@ -1,2 +1,1 @@
-# ipfs-issues
-Tracking of IPFS-related issues.
+# Tracking of IPFS-related issues.
